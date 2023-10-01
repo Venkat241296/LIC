@@ -1,5 +1,7 @@
-This is my frst Cosde
-ffkfkfk
-flfkfkfk
-fkfkfjfk
-f,fuvj
+This is my frst Code. This is for learning git
+
+<html>
+<head>
+<body>
+<h1>
+ok ,Go ahead with git learning at the earlist. coming week we plan for a demo
